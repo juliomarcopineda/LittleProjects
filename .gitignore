@@ -1,7 +1,8 @@
 *.class
 
-# Bat files
+# Windows files
 *.bat
+*.lnk
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
